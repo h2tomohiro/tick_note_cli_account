@@ -24,7 +24,8 @@
     "start": "PORT=3500 craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "tsc": "tsc"
   },
   "eslintConfig": {
     "extends": [
