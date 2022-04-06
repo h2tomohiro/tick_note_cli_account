@@ -24,7 +24,8 @@
     "start": "PORT=3500 craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "tsc": "tsc"
   },
   "eslintConfig": {
     "extends": [
@@ -47,6 +48,7 @@
   "devDependencies": {
     "eslint": "^7.26.0",
     "eslint-plugin-react": "^7.23.2",
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.0",
+    "typescript": "^4.6.3"
   }
 }
